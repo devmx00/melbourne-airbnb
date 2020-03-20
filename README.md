@@ -2,7 +2,7 @@
 
 ## Version 1
 
-Analysis of Melbourne AirBnB listings obtained from insideairbnb.com scraped on 15-Feb-2020. Comparison made between other Australian cities including Sydney, Perth & Hobart. Several key observations were found not limited to price, area & property type.
+Analysis of Melbourne Airbnb listings obtained from insideairbnb.com scraped on 15-Feb-2020. Comparison made between other Australian cities including Sydney, Perth & Hobart. Several key observations were found not limited to price, area & property type.
 
 Link:\
 [nbviewer](https://nbviewer.jupyter.org/github/mxcodeyard/melbourne_airbnb/blob/master/v1/melbourne_airbnb.ipynb)
