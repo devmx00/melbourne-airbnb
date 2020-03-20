@@ -2,7 +2,7 @@
 
 ## Motivation
 
-The main emphasis that surround this analysis is based on three questions stated below and to try to answer those questions.
+The main emphasis that surround this analysis is based on three questions stated below and to seek answers to those questions.
 
 Three questions were asked:
 * Are listings more expensive in city area than suburbs?
