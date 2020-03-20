@@ -4,7 +4,7 @@
 
 The main emphasis that surround this analysis is based on three questions stated below and to seek answers to those questions.
 
-Three questions were asked:
+Questions:
 * Are listings more expensive in city area than suburbs?
 * What are the general characteristics of being a superhost?
 * Which features contribute more to price?
