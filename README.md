@@ -18,6 +18,6 @@ Several key observations and findings were found to answer the questions stated 
 
 ## Links:
 [Blog Post](https://medium.com/@mtang1/melbourne-airbnb-analysis-8fddc1c020ef)\
-[Code](https://nbviewer.jupyter.org/github/mxcodeyard/melbourne_airbnb/blob/master//melbourne_airbnb.ipynb)
+[Code](https://nbviewer.jupyter.org/github/mxtng/melbourne_airbnb/blob/master/src/melbourne_airbnb.ipynb)
 
 
