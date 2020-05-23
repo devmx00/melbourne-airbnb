@@ -20,8 +20,4 @@ Links:\
 [nbviewer](https://nbviewer.jupyter.org/github/mxcodeyard/melbourne_airbnb/blob/master/v2/melbourne_airbnb_v2.1.ipynb)\
 [medium](https://medium.com/@mtang1/melbourne-airbnb-analysis-8fddc1c020ef)
 
-## Files
-
-* Jupyter Notebook
-* Images
 
