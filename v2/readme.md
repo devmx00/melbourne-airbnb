@@ -1,7 +1,5 @@
 # Melbourne Airbnb Analysis
 
-## Motivation
-
 The main emphasis that surround this analysis is based on three questions stated below and to seek answers to those questions.
 
 Questions:
