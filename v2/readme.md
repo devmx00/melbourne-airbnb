@@ -17,7 +17,7 @@ Dataset used for this analysis was obtained from [insideairbnb.com](http://insid
 Several key observations and findings were found to answer the questions stated above. Additional findings were also found along the way when conducting this analysis. Findings were up to our expectations except for feature importance where scores could be improved by including more features and further tweaking to the machine learning techniques. See links below for code and blog post.
 
 ## Links:
-[Blog Post](https://medium.com/@mtang1/melbourne-airbnb-analysis-8fddc1c020ef)
-[Code](https://nbviewer.jupyter.org/github/mxcodeyard/melbourne_airbnb/blob/master/v2/melbourne_airbnb_v2.1.ipynb)\
+[Blog Post](https://medium.com/@mtang1/melbourne-airbnb-analysis-8fddc1c020ef)\
+[Code](https://nbviewer.jupyter.org/github/mxcodeyard/melbourne_airbnb/blob/master/v2/melbourne_airbnb_v2.1.ipynb)
 
 
